@@ -48,5 +48,5 @@
 
 
 <h3 align="center">⚡ Code. Build. Learn. Repeat. ⚡</h3>
-<h4 align="center">Turning coffee ☕ into scalable code & clean commits</h4>>
+<h4 align="center">Turning coffee ☕ into scalable code & clean commits</h4>
 
