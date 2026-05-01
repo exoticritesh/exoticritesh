@@ -18,22 +18,6 @@
 ![](https://streak-stats.demolab.com/?user=exoticritesh&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=exoticritesh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=exoticritesh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-## 📊 GitHub Stats
-<p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Classicharsh&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
- <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Classicharsh&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Classicharsh&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 ## 📈 Contribution Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Classicharsh&theme=react-dark&hide_border=true&area=true" />
