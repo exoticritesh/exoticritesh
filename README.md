@@ -1,5 +1,5 @@
 <h1 align="center">ℋℯ𝓎 👋, ℐ'𝓂 𝓔𝔁𝓸𝓽𝓲𝓬 𝓡𝓲𝓽𝓮𝓼𝓱🚀</h1>
-# 💫 About Me:
+💫 About Me:
 🔭 Working on full-stack & UI/UX projects<br>👯 Open to collaborate on web & AI/ML projects<br>🤝 Need help with advanced backend & AI concepts<br>🌱 Learning full-stack, AI/ML & design<br>💬 Ask me about web dev & Python<br>⚡ Fun fact: I simplify complex ideas 🚀
 
 ###
